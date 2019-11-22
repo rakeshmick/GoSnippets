@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rakeshmick/GoSnippets/test"
+	"github.com/rakeshmick/GoSnippets/Chap1/test"
 )
 
 func main() {
