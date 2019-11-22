@@ -2,6 +2,6 @@ package tester;
 import("fmt")
 
 func adder(one int, two int){
-fmt.println(one+two);
+fmt.Println(one+two);
   return one + two;
 }
