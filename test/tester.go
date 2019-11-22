@@ -1,7 +1,7 @@
 package tester;
 import("fmt")
 
-func adder(one int, two int){
+func adder(one int, two int) int{
 fmt.Println(one+two);
-  return one + two;
+  return (one + two);
 }
