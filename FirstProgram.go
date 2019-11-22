@@ -6,6 +6,6 @@ import(
 )
 func main(){
   fmt.Println("Hello World !")
-  tester.adder(2,4);
+  test.adder(2,4);
 
 }
