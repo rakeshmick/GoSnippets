@@ -1,4 +1,4 @@
-package tester;
+package test;
 import("fmt")
 
 func adder(one int, two int) int{
