@@ -2,7 +2,7 @@ package main;
 
 import(
 "fmt"
-  "test\tester"
+  "test/tester"
 )
 func main(){
   fmt.Println("Hello World !")
